@@ -1,0 +1,1 @@
+var Toronto = "My home";
